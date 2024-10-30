@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, meu nome é Josias</h1>
-## sobre mim
+# sobre mim
 --
 <!--
 **JosiasRS/JosiasRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
