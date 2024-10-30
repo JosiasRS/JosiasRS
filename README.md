@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, meu nome é Josias</h1>
 
 ### SOBRE MIM
-> Tenho 17 anos, moro em Açailândia sou aluno do curso tecnico em informatica do 3º ano no IFMA - Campus Açailândia. Sou uma Pessoa tranquila
-> que ama futebol, jogos e programação.
+> Tenho 17 anos, moro em Açailândia-MA, sou aluno do curso tecnico em informatica do 3º ano no
+> IFMA - Campus Açailândia. Sou uma Pessoa tranquila que ama futebol, jogos e programação.
 
 
 ### gtff
