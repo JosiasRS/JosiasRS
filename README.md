@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">👋 Olá, meu nome é Josias</h1>
+<h1 align="center">👋 Olá, meu nome é Josias</h1>
 
 <!--
 **JosiasRS/JosiasRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
