@@ -2,7 +2,7 @@
 
 ### Sobre Mim
 > Tenho 17 anos, moro em Açailândia-MA, sou aluno do curso tecnico em informatica do 3º ano no
-> IFMA - Campus Açailândia. Sou uma Pessoa tranquila que ama futebol, jogos e programação.
+> IFMA - Campus Açailândia. Sou uma Pessoa que ama futebol, jogos e programação.
 ##
 ### Habilidades
 > ### Profissionais:
