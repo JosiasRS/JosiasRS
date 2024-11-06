@@ -13,7 +13,7 @@
   
 > ### Pessoais:
 >  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
->   <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg](https://www.flaticon.com/br/icone-gratis/variante-de-bola-de-futebol_33736)" width="52" height="40" alt="gmail logo"  />
+>   <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg](https://www.flaticon.com/br/icone-gratis/variante-de-bola-de-futebol_33736)" width="52" height="40" alt="Bola de futebol"  />
 >  </a>
 >  <a href="https://www.instagram.com/josias.r.r.s/profilecard/?igsh=NWszcng5cWptYjNz" target="_blank">
 >    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -40,4 +40,9 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JosiasRS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiasRS&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+    <br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosiasRS&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
+###
